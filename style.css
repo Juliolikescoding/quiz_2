@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding:0;
+    display: flex;
+    background: url('https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiM0tjFxa_eAhUkp1kKHSq5AFoQjRx6BAgBEAU&url=https%3A%2F%2Fwww.vam.ac.uk%2Fblog%2Fsketch-product%2Fyour-name-here&psig=AOvVaw2MaNYWKGE9IFOekhD9IQmZ&ust=1541036252858097')
+}
+
+button{
+    justify-content: center;
+    align-items: center;
+    background: rgb(250, 70, 250);
+    border-radius: 50px;
+    color: aquamarine;
+}
